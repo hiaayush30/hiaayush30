@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt Text](https://res.cloudinary.com/dinsdxr0g/image/upload/v1741013038/ezgif-64369107b412f0_ipwavu.gif)
 
 <!--
 **hiaayush30/hiaayush30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
